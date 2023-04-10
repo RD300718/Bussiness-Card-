@@ -1,0 +1,27 @@
+body{
+    background-color:#ddebf8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 600px;
+    display: flex;
+    background-color:#d8cefe;
+    align-items: center;
+    justify-content: center;
+    border:5px solid #ffd6e0;
+    justify-content: space-evenly;
+    margin:0px  auto;
+    margin-top: 10%;
+    text-align: center;
+    height: 250px;
+    border-radius: 10px;
+    color: #2b2839;
+    border-bottom: 20px sloid #d8cefe;
+}
+
+img{
+    height: 200%;
+    border-radius: 200%;
+    width: 200px;
+    ;
+}
